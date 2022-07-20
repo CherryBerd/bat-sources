@@ -1,0 +1,22 @@
+[36mStarted in 18.07.2022 16:32:12,96 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:35:21,70 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:35:29,14 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:35:47,20 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:36:17,23 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:36:36,54 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:37:04,93 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:37:12,38 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:38:39,35 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:38:50,20 
+erorlevel=0 
+[36mStarted in 18.07.2022 16:39:51,44 
+erorlevel=0 
